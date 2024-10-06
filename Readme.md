@@ -115,9 +115,8 @@ I'm currently deepening my knowledge in:
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourHandle](https://twitter.com/yourhandle)
-- Blog: [Your Blog](https://yourblog.com)
+- LinkedIn: [Your Name](https://linkedin.com/in/dumnevijay)
+- Twitter: [@YourHandle](https://x.com/vijay_dumne)
 
 ## 💼 Looking for DevOps Opportunities
 
@@ -126,11 +125,7 @@ I'm open to:
 - Freelance DevOps consulting
 - Open-source collaboration
 
-If you're interested in working together, please reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or email at your.email@example.com.
-
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+If you're interested in working together, please reach out via [LinkedIn](https://linkedin.com/in/dumnevijay) or email at your.email@example.com.
 
 ---
 
