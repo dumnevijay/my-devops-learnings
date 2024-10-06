@@ -115,8 +115,8 @@ I'm currently deepening my knowledge in:
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Your Name](https://linkedin.com/in/dumnevijay)
-- Twitter: [@YourHandle](https://x.com/vijay_dumne)
+- LinkedIn: [DUMNE VIJAY](https://linkedin.com/in/dumnevijay)
+- Twitter: [@vijay_dumne](https://x.com/vijay_dumne)
 
 ## 💼 Looking for DevOps Opportunities
 
